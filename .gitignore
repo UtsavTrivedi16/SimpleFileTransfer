@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+questions.txt
+TODO.txt
+resources/sftp.client/.*
+*.class
