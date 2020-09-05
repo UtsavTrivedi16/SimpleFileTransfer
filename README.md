@@ -1,8 +1,3 @@
-# Compsys 725 Assignment 1: Simple File Transfer
-Author: Utsav Dhruv Trivedi  
-Student ID: 445399861  
-UPI: utri092
-
 # OS and Tools
 OS: Developed and Tested on Windows 10 64 bit  
 IDE: IntelliJ IDE with JDK 11.08
